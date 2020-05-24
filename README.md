@@ -9,4 +9,3 @@ this script will read domains from csv file and check if domains creation date l
        $ pip install datetime
 
 
-* Internet connection required
