@@ -5,7 +5,7 @@ Malwares like DGA malwares use newly registerd domains to communicate with C&C s
 this script will read domains from csv file and check if domains creation date less than 30 days.
 
 # requirments:
-* pip install whois
-* pip install DateTime
+* 'pip install whois'
+* 'pip install DateTime'
 
-* Internet connection required
+* 'Internet connection required'
