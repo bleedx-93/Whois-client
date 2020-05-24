@@ -6,3 +6,5 @@ this script will read domains from csv file and check if domains creation date l
 
 requirments:
 pip install whois
+
+[*] Internet connection required
