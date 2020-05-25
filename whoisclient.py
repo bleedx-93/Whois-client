@@ -8,7 +8,7 @@
     Instructions:
         1- Declear the path of the csv file
         2- Play some fortnite :)
-        3- the output.log file which contains possibly malicious domains will create in the same directory as the sciprt   
+        3- the output.log file which contains possibly malicious domains will create in the same directory as the sciprt executed   
         
         
      Whois library supported TLDs: 
