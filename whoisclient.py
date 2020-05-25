@@ -84,7 +84,7 @@ if __name__ == "__main__":
         print ("[*] Program exited")
         sys.exit()
         
-    logging.basicConfig(filename="//root//Desktop//whois//output.log" , level=logging.INFO)
+    logging.basicConfig(filename=".//output.log" , level=logging.INFO)
     """ Path to log file which will store malicious domains """
     
     
